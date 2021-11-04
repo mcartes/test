@@ -1,0 +1,10 @@
+Obtener consultas de manera dinamica
+-Categorias
+Obtener consultas de manera dinamica
+-Documentos
+frontend
+si es titulo que tenga formato <h1>
+si es subtitulo que tenga formato <h3>
+si es desarrollo que tenga formato <p>
+buscar por tags tipo titulo
+Editar contenido categoria
